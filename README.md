@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🤖 I'm a Data scientist with over 4 years of experience in machine learning.
+🔭 I'm passionate about leveraging advanced AI techniques to drive innovation and building end-to-end solutions.
+🌱 I’m currently learning Gen AI 
+
 <!--
 **ankitw497/ankitw497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
